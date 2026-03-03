@@ -1,2 +1,2 @@
 # Wright-Fisher-Genetic-Simulation-For-Allele-Fixation
-Wright-Fisher genetics simulator modelling allele fixation, drift and selection strength (Ns) dynamics with analytical comparisions.
+Wright–Fisher simulation of allele fixation under genetic drift and selection, with analytical validation of fixation probabilities.
